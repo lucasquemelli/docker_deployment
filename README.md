@@ -41,7 +41,7 @@ Then, remember to change the pyenv version to the right one:
 
 <img width="258" alt="image" src="https://user-images.githubusercontent.com/81119854/213319616-fe1eb50d-9ae5-4d50-b2b2-b82abdc388f4.png">
 
-- Then, type these libraries into the requirements.txt file:
+- Then, type these libraries into the requirements.txt file and save:
 
 ````
 Flask
@@ -50,3 +50,7 @@ pandas
 numpy
 matplotlib
 ```` 
+- Finally, type in your terminal:
+
+`````
+pip install -r requirements.txt
