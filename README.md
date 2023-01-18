@@ -11,7 +11,7 @@ In this project, we are going to see the steps of how to deploy a Machine Learni
 
 # Step 01: Creation of notebook 
 
-In this step, we created the notebook with the model training and performance. 
+In this step, we created the notebook with the model training and performance. The entire notebook may be found in this project. You may access it by the [link](https://github.com/lucasquemelli/docker_deployment/blob/main/machine_learning_model.ipynb).
 
 # Step 02: Creation of new environment
 
