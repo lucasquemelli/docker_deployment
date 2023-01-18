@@ -6,4 +6,4 @@
 
 --- 
 
-In this project, we are going to see how to deploy a Machine Learning model in containers using Docker. 
+In this project, we are going to see the steps of how to deploy a Machine Learning model in containers using Docker. 
