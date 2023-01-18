@@ -15,7 +15,7 @@ In this step, we created the notebook with the model training and performance. T
 
 # Step 02: Creation of new environment
 
-Using your terminal, type:
+Using your terminal, (1) open your local repository and (2) type:
 
 ````
 conda create -p venv python==3.7 -y
