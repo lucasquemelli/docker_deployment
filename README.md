@@ -54,3 +54,20 @@ matplotlib
 
 `````
 pip install -r requirements.txt
+
+````` 
+
+# Create Python file
+
+- Create a Python file:
+
+<img width="259" alt="image" src="https://user-images.githubusercontent.com/81119854/213333702-fa347fdf-4a0a-479c-bd7e-bc7536f5674c.png">
+
+- Automate the model you create before. Use the code in the .ipynb file in the app.py file.
+
+# Create a Dockerfile
+
+- Docker assures the same configurations for all machines. 
+
+<img width="254" alt="image" src="https://user-images.githubusercontent.com/81119854/213340116-082f9d0f-784e-418f-9401-5cbcc3aaee74.png">
+
